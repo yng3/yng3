@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @yng3
-- 👀 I’m interested in ... cryptocurrency
-- 🌱 I’m currently learning ... ux/ui design
-- 💞️ I’m looking to collaborate on ... ipfs
-- 📫 How to reach me ... coltonerickson#4666
+#koza
 
-<!---
-yng3/yng3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello and welcome,
+My favorite game is Call of Duty, I am a pro quickscoper. Don't ask to play me.. it's a waste of my time. (maybe if you're lucky)
+I like to travel to different planets in my free time.
