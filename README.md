@@ -1,5 +1,3 @@
-#koza
+projectMULTIVERSE
 
-Hello and welcome,
-My favorite game is Call of Duty, I am a pro quickscoper. Don't ask to play me.. it's a waste of my time. (maybe if you're lucky)
-I like to travel to different planets in my free time.
+This is a project in progress. The aim of this project is to bring a hole new level of technology to the hands of any ordinary user. Using what we already have to "power" or "run" this project will take a lot of team work, not only from everyone who uses the technology that connects us all together but also the technology itself. We are at a massive turning point in the advancement of technology, which has created unlimited amount of possibilities for growth and development. Working together with technology as an extension of our own capabilities, we will bring a hole new level of possibilities to the surface for an everyday user.
