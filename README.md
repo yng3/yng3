@@ -3,9 +3,9 @@
 <body>
 
 <h1>WELCOME TO YNG3</h1>
-  <p><i>*~webpage & app in development~*</i><br></br> YNG3 Data/Network combined with IPFS delivers META-FLOW. All Services delivered on AirDrop.</p>
+  <p><i>*~~*</i><br></br>Join the Quantum Revolution<i>*~~*</i></p>
   
-  donations greatly appreciated <3
+  you are appreciated <3
 
 </body>
 </html>
