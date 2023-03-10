@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<h1>WELCOME TO YNG3</h1>
-  <h2><p><i>~~</i>it's a revolution i suppose<i>~~</i></p></h2>
+<h1>YNG3</h1>
+  <h2><p><i>welcome to the realm of mystery and wonder</i></p></h2>
   
   <p>you are appreciated <3</p>
 
